@@ -1,5 +1,7 @@
 this is a text file
 
+test
+tdjgdh
 
 read another file or
 
